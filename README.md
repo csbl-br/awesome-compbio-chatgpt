@@ -6,7 +6,7 @@ An awesome repository of community-curated applications of ChatGPT and other LLM
 
 Any material is welcome, as long as it is: 
 * Free to read without accounts
-* High quality (subjective, but we know when we see it)
+* High quality (subjective, but we know it when we see it)
 * Relevant to bioinformaticians
 
 
