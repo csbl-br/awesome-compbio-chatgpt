@@ -4,6 +4,15 @@
 
 An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology!
 
+Any material is welcome, as long as it is: 
+* Free to read without accounts
+* Relevant to bioinformaticians
+
+
+To contribute, just add the link to this document and open a Pull Request!
+
+Have fun!
+
 ## Bioinformatics Pipelines 
 
 ### Links
@@ -28,6 +37,10 @@ An awesome repository of community-curated applications of ChatGPT and other LLM
 
 ## Data Visualization
 ### Links
+
+#### ggplot2
+* 
+#### matplot lib
 
 ### Prompts
 
