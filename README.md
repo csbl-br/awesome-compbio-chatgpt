@@ -49,3 +49,32 @@ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-i
 * ChatGPT for bioinformatics (on the perspective of a bioinformatician): https://medium.com/@91mattmoore/chatgpt-for-bioinformatics-404c6d0817a1
 
 * ChatGPT and bioinformatics careers (Reddit forum discussion): https://www.reddit.com/r/bioinformatics/comments/11wwnqj/chatgpt_and_bioinformatics_careers/
+
+
+## Quick Prompts
+
+The following prompts may not be the most efficient in terms of prompt engineering, but they are quick, useful and exemplify usage of ChatGPT for computational biologists. 
+
+###  Improve Code Readability and Documentation
+
+* “Add explanatory comments to this code: {code here}”
+* “Rename the variables for clarity: {code here}” 
+* "Render roxygen2 documentation for the function: {R code here}”.
+
+### Write Code Efficiently
+
+* "Extract functions to increase modularity: {code here}"
+* "Write a unit test for the following function and help me implement it: {code here}"
+* "Re-write and optimize this for loop: {code here}"
+
+### Clean up data
+
+* "Write me regex for R/python/Excel with a pattern that will extract {} from {}"
+* "Act as a table. Add a new column with consistent labels to this dataset:"
+
+
+### Improve data vizualization
+
+* "Create a ggplot2 violin plot with a log10 Y axis"
+* "Change my code to make the plot color-blind friendly"
+
