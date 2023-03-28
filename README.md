@@ -20,7 +20,6 @@ Have fun!
 * Data science prompts: https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
 * ChatGPT cheatsheet for Data Science: https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science
 * Fun and useful prompts: https://github.com/f/awesome-chatgpt-prompts
-* Tools and docs (general): https://github.com/humanloop/awesome-chatgpt
 * List of awesome ChatGPT lists: https://github.com/OpenMindClub/awesome-chatgpt  
 * Collection of prompts for developers (YouTube): https://www.youtube.com/watch?v=sTeoEFzVNSc&t=901s
 
