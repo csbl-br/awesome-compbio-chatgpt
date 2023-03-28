@@ -44,10 +44,12 @@ Have fun!
 ## Bioinformatics-specific resources
 
 * Using ChatGPT in bioinformatics and biomedical research (good blog post): https://omicstutorials.com/using-chatgpt-in-bioinformatics-and-biomedical-research/
+
 * ChatGPT for bioinformatics (on the perspective of a bioinformatician): https://medium.com/@91mattmoore/chatgpt-for-bioinformatics-404c6d0817a1
 
 * ChatGPT and bioinformatics careers (Reddit forum discussion): https://www.reddit.com/r/bioinformatics/comments/11wwnqj/chatgpt_and_bioinformatics_careers/
 
+* ChatG-PPi-T: Finding Interactions with OpenAI: https://www.linkedin.com/pulse/chatg-ppi-t-finding-interactions-openai-jon-hill/
 
 ## Quick Prompts
 
