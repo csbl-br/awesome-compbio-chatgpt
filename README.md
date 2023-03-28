@@ -34,7 +34,6 @@ Have fun!
 
 * Quick guide of best practices for Prompt Engineering:  https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
 * More advanced guidance on Prompt Engineering: https://www.promptingguide.ai/
-https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
 ## Understanding the tool 
 
