@@ -40,6 +40,9 @@ Have fun!
 * List of papers published by OpenAI: https://openai.com/research 
 * Basic YouTube Crash Course on ChatGPT (12/December/2022, so a bit old): https://www.youtube.com/watch?v=JTxsNm9IdYU
 
+### Ethics and Accountability Discussions
+
+* "Pause Giant AI Experiments: An Open Letter" https://futureoflife.org/open-letter/pause-giant-ai-experiments/
 
 ## Bioinformatics-specific resources
 
@@ -78,3 +81,6 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 * "Create a ggplot2 violin plot with a log10 Y axis"
 * "Change my code to make the plot color-blind friendly"
 
+### Tutorials
+
+* "A Guide to Using ChatGPT For Data Science Projects" : https://www.datacamp.com/tutorial/chatgpt-data-science-projects
