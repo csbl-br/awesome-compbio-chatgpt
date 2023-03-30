@@ -35,6 +35,7 @@ Have fun!
 
 * Quick guide of best practices for Prompt Engineering:  https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
 * More advanced guidance on Prompt Engineering: https://www.promptingguide.ai/
+* Good 20 min blogpost covering core aspects of Prompt Engineering: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 
 ## Understanding the tool 
 
