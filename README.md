@@ -90,6 +90,7 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 
 * "Create a ggplot2 violin plot with a log10 Y axis"
 * "Change my code to make the plot color-blind friendly"
+* "Translate this plot from ggplot2 to matplotlib syntax"
 
 ## Tutorials
 
