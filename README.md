@@ -46,6 +46,8 @@ Have fun!
 
 ## Bioinformatics-specific resources
 
+* Ten Quick Tips for Harnessing the Power of ChatGPT/GPT-4 in Computational Biology: https://arxiv.org/abs/2303.16429 
+
 * Using ChatGPT in bioinformatics and biomedical research (good blog post): https://omicstutorials.com/using-chatgpt-in-bioinformatics-and-biomedical-research/
 
 * ChatGPT for bioinformatics (on the perspective of a bioinformatician): https://medium.com/@91mattmoore/chatgpt-for-bioinformatics-404c6d0817a1
@@ -81,6 +83,6 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 * "Create a ggplot2 violin plot with a log10 Y axis"
 * "Change my code to make the plot color-blind friendly"
 
-### Tutorials
+## Tutorials
 
 * "A Guide to Using ChatGPT For Data Science Projects" : https://www.datacamp.com/tutorial/chatgpt-data-science-projects
