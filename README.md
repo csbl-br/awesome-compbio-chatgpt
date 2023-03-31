@@ -60,7 +60,7 @@ Have fun!
 
 * ChatG-PPi-T: Finding Interactions with OpenAI (far from production-ready, but creative idea): https://www.linkedin.com/pulse/chatg-ppi-t-finding-interactions-openai-jon-hill/
 
-## API and avanced applications
+## API and advanced applications
 
 * LangChain combines LLM/GPT API requests with (1) access to external documents and (2) abilities to talk to the wider web, creating semi-autonomous agents: https://python.langchain.com/en/latest/
 * Llama Index is an interface for combining LLMs with external data (such as documents): https://gpt-index.readthedocs.io/en/latest/index.html 
