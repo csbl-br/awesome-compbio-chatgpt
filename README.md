@@ -23,12 +23,13 @@ Have fun!
 * List of awesome ChatGPT lists: https://github.com/OpenMindClub/awesome-chatgpt  
 * Collection of prompts for developers (YouTube): https://www.youtube.com/watch?v=sTeoEFzVNSc&t=901s
 
-## Extensions that use the GPT API
+## Applications that use the GPT API
 
 * GPT for Google Sheets: https://gptforwork.com/ 
 * GPT for R Studio: https://github.com/MichelNivard/gptstudio 
 * GPT for R Developers: https://jameshwade.github.io/gpttools/
 * GPT for PDFs (in a web interface, freemium service): https://chatpdf.com
+* GPT directly from the command line: https://github.com/npiv/chatblade
 
 
 ## Prompt Engineering
