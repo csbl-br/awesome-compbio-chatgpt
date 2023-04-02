@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology!
+An awesome repository of community-curated applications of ChatGPT and other LLMs in computational biology!
 
 Any material is welcome, as long as it is: 
 * Free to read without accounts
@@ -87,7 +87,7 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 * "Act as a table. Add a new column with consistent labels to this dataset:"
 
 
-### Improve data vizualization
+### Improve data visualization
 
 * "Create a ggplot2 violin plot with a log10 Y axis"
 * "Change my code to make the plot color-blind friendly"
