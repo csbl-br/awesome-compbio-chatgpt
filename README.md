@@ -59,6 +59,7 @@ Have fun!
 * ChatGPT and bioinformatics careers (Reddit forum discussion): https://www.reddit.com/r/bioinformatics/comments/11wwnqj/chatgpt_and_bioinformatics_careers/
 
 * ChatG-PPi-T: Finding Interactions with OpenAI (far from production-ready, but creative idea): https://www.linkedin.com/pulse/chatg-ppi-t-finding-interactions-openai-jon-hill/
+* BioGPT: generative pre-trained transformer for biomedical text generation and mining: https://github.com/microsoft/BioGPT
 
 ## API and advanced applications
 
