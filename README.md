@@ -52,6 +52,8 @@ Have fun!
 
 * Ten Quick Tips for Harnessing the Power of ChatGPT/GPT-4 in Computational Biology (our preprint on tips, conflict disclosed): https://arxiv.org/abs/2303.16429 
 
+* Single-cell RNA-seq analysis in Python guided by ChatGPT (nice video, from Cell Ranger output to final plots): https://www.youtube.com/watch?v=fkuLFlC2ZWk 
+
 * Using ChatGPT in bioinformatics and biomedical research (good blog post): https://omicstutorials.com/using-chatgpt-in-bioinformatics-and-biomedical-research/
 
 * ChatGPT for bioinformatics (on the perspective of a bioinformatician): https://medium.com/@91mattmoore/chatgpt-for-bioinformatics-404c6d0817a1
@@ -59,6 +61,7 @@ Have fun!
 * ChatGPT and bioinformatics careers (Reddit forum discussion): https://www.reddit.com/r/bioinformatics/comments/11wwnqj/chatgpt_and_bioinformatics_careers/
 
 * ChatG-PPi-T: Finding Interactions with OpenAI (far from production-ready, but creative idea): https://www.linkedin.com/pulse/chatg-ppi-t-finding-interactions-openai-jon-hill/
+
 * BioGPT: generative pre-trained transformer for biomedical text generation and mining: https://github.com/microsoft/BioGPT
 
 ## API and advanced applications
