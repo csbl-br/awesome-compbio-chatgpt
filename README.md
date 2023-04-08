@@ -43,6 +43,7 @@ Have fun!
 * A very good post by Stephen Wolfram on the details on _how_ it works: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 * List of papers published by OpenAI: https://openai.com/research 
 * Basic YouTube Crash Course on ChatGPT (12/December/2022, so a bit old): https://www.youtube.com/watch?v=JTxsNm9IdYU
+* Technnical overview of details on how LLMs work and what can be their future (Eight Things to Know about Large Language Models): https://cims.nyu.edu/~sbowman/eightthings.pdf
 
 ### Ethics and Accountability Discussions
 
