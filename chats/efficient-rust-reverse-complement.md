@@ -36,9 +36,9 @@ fn reverse_complement(sequence: &str) -> String {
 ```
 Now, let's discuss why this Rust implementation can be more efficient computationally compared to the original Python code:
 
-- **Data Structure**: In Rust, we use a Vec<char> to represent the complement rather than a dictionary. Using a vector allows for constant-time indexing, whereas dictionary lookups in Python have a time complexity of O(1) on average but can be slower in practice due to hashing.**
-- **String Concatenation**: Instead of concatenating strings directly in the loop, we utilize a mutable String and push each complement character individually. This avoids unnecessary string copying and reallocation, resulting in better performance.**
-- **Reverse Iteration**: The Rust implementation uses the chars().rev() method to iterate over the sequence in reverse order. This eliminates the need to create a reversed copy of the sequence explicitly, as done with sequence[::-1] in Python.**
+- **Data Structure**: In Rust, we use a Vec<char> to represent the complement rather than a dictionary. Using a vector allows for constant-time indexing, whereas dictionary lookups in Python have a time complexity of O(1) on average but can be slower in practice due to hashing.
+- **String Concatenation**: Instead of concatenating strings directly in the loop, we utilize a mutable String and push each complement character individually. This avoids unnecessary string copying and reallocation, resulting in better performance.
+- **Reverse Iteration**: The Rust implementation uses the chars().rev() method to iterate over the sequence in reverse order. This eliminates the need to create a reversed copy of the sequence explicitly, as done with sequence[::-1] in Python.
 
 Overall, these optimizations help improve the efficiency of the Rust implementation by reducing memory allocations, eliminating dictionary lookups, and avoiding unnecessary string operations, resulting in faster execution.
 
