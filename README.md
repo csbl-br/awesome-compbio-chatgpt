@@ -30,7 +30,8 @@ Have fun!
 * GPT for R Developers: https://jameshwade.github.io/gpttools/
 * GPT for PDFs (in a web interface, freemium service): https://chatpdf.com
 * GPT directly from the command line: https://github.com/npiv/chatblade
-
+* GPT-based chatbot fine-tuned for bioinformatics https://ai.tinybio.cloud/chat (discussed on [Biostars](https://www.biostars.org/p/9565757/))
+* Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/ 
 
 ## Prompt Engineering
 
