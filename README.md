@@ -71,6 +71,7 @@ Have fun!
 * LangChain combines LLM/GPT API requests with (1) access to external documents and (2) abilities to talk to the wider web, creating semi-autonomous agents: https://python.langchain.com/en/latest/
 * Llama Index is an interface for combining LLMs with external data (such as documents): https://gpt-index.readthedocs.io/en/latest/index.html 
 * guardrails is an application to improve and refine LLM outputs in Python: https://github.com/ShreyaR/guardrails 
+* Embedchain is a framework to create ChatGPT like bots over your personalised dataset in 3 lines of code: https://embedchain.ai/
 
 ## Quick Prompts
 
