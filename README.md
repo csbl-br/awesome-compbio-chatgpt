@@ -31,7 +31,9 @@ Have fun!
 * GPT for PDFs (in a web interface, freemium service): https://chatpdf.com
 * GPT directly from the command line: https://github.com/npiv/chatblade
 * GPT-based chatbot fine-tuned for bioinformatics https://ai.tinybio.cloud/chat (discussed on [Biostars](https://www.biostars.org/p/9565757/))
-* Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/ 
+* Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/
+* Open-source Python framework for connecting conversational AI (not just GPT) to, e.g., bioinformatics analyses, knowledge graphs, vector databases, and model chaining using LangChain (more details in the [preprint](https://arxiv.org/abs/2305.06488)): https://github.com/biocypher/biochatter
+* Web frontend for supplementing bioinformatics tasks using the biochatter framework: [ChatGSE](https://chat.biocypher.org)
 
 ## Prompt Engineering
 
@@ -66,12 +68,15 @@ Have fun!
 
 * BioGPT: generative pre-trained transformer for biomedical text generation and mining: https://github.com/microsoft/BioGPT
 
+* The biochatter / ChatGSE preprint: https://arxiv.org/abs/2305.06488
+
 ## API and advanced applications
 
 * LangChain combines LLM/GPT API requests with (1) access to external documents and (2) abilities to talk to the wider web, creating semi-autonomous agents: https://python.langchain.com/en/latest/
 * Llama Index is an interface for combining LLMs with external data (such as documents): https://gpt-index.readthedocs.io/en/latest/index.html 
 * guardrails is an application to improve and refine LLM outputs in Python: https://github.com/ShreyaR/guardrails 
 * Embedchain is a framework to create ChatGPT like bots over your personalised dataset in 3 lines of code: https://embedchain.ai/
+* The [Hugging Face Hub open LLM leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) collects and ranks open-source LLMs; very important for accessibility and reproducibility of LLM-based bioinformatics
 
 ## Quick Prompts
 
