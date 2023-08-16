@@ -32,8 +32,7 @@ Have fun!
 * GPT directly from the command line: https://github.com/npiv/chatblade
 * GPT-based chatbot fine-tuned for bioinformatics https://ai.tinybio.cloud/chat (discussed on [Biostars](https://www.biostars.org/p/9565757/))
 * Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/
-* Open-source Python framework for connecting conversational AI (not just GPT) to, e.g., bioinformatics analyses, knowledge graphs, vector databases, and model chaining using LangChain (more details in the [preprint](https://arxiv.org/abs/2305.06488)): https://github.com/biocypher/biochatter
-* Web frontend for supplementing bioinformatics tasks using the biochatter framework: [ChatGSE](https://chat.biocypher.org)
+* Python framework for connecting conversational AI to bioinformatics pipelines https://github.com/biocypher/biochatter and [ChatGSE](https://chat.biocypher.org)
 
 ## Prompt Engineering
 
@@ -54,7 +53,7 @@ Have fun!
 
 ## Bioinformatics-specific resources
 
-* Ten Quick Tips for Harnessing the Power of ChatGPT/GPT-4 in Computational Biology (our preprint on tips, conflict disclosed): https://arxiv.org/abs/2303.16429 
+* Ten Quick Tips for Harnessing the Power of ChatGPT/GPT-4 in Computational Biology (our article): https://arxiv.org/abs/2303.16429 and https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011319
 
 * Single-cell RNA-seq analysis in Python guided by ChatGPT (nice video, from Cell Ranger output to final plots): https://www.youtube.com/watch?v=fkuLFlC2ZWk 
 
@@ -68,7 +67,7 @@ Have fun!
 
 * BioGPT: generative pre-trained transformer for biomedical text generation and mining: https://github.com/microsoft/BioGPT
 
-* The biochatter / ChatGSE preprint: https://arxiv.org/abs/2305.06488
+* A Platform for the Biomedical Application of Large Language Models: https://arxiv.org/abs/2305.06488
 
 ## API and advanced applications
 
