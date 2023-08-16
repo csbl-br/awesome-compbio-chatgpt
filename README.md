@@ -33,7 +33,7 @@ Have fun!
 * GPT-based chatbot fine-tuned for bioinformatics https://ai.tinybio.cloud/chat (discussed on [Biostars](https://www.biostars.org/p/9565757/))
 * Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/
 * Open-source Python framework for connecting conversational AI (not just GPT) to, e.g., bioinformatics analyses, knowledge graphs, vector databases, and model chaining using LangChain (more details in the [preprint](https://arxiv.org/abs/2305.06488)): https://github.com/biocypher/biochatter
-* Web frontend for supplementing bioinformatics tasks using the above framework: [ChatGSE](https://chat.biocypher.org)
+* Web frontend for supplementing bioinformatics tasks using the biochatter framework: [ChatGSE](https://chat.biocypher.org)
 
 ## Prompt Engineering
 
