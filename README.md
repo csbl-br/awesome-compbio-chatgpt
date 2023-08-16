@@ -76,6 +76,7 @@ Have fun!
 * Llama Index is an interface for combining LLMs with external data (such as documents): https://gpt-index.readthedocs.io/en/latest/index.html 
 * guardrails is an application to improve and refine LLM outputs in Python: https://github.com/ShreyaR/guardrails 
 * Embedchain is a framework to create ChatGPT like bots over your personalised dataset in 3 lines of code: https://embedchain.ai/
+* The [Hugging Face Hub open LLM leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) collects and ranks open-source LLMs; very important for accessibility and reproducibility of LLM-based bioinformatics
 
 ## Quick Prompts
 
