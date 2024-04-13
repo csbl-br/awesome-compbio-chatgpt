@@ -69,6 +69,8 @@ Have fun!
 
 * A Platform for the Biomedical Application of Large Language Models: https://arxiv.org/abs/2305.06488
 
+* scGPT: Foundation model for single-cell biology: https://github.com/bowang-lab/scGPT ([Paper (not OA)](https://doi.org/10.1038/s41592-024-02201-0))
+
 ## API and advanced applications
 
 * LangChain combines LLM/GPT API requests with (1) access to external documents and (2) abilities to talk to the wider web, creating semi-autonomous agents: https://python.langchain.com/en/latest/
